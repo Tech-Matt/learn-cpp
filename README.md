@@ -1,10 +1,10 @@
 # learn-cpp
 Repo to keep track of my cpp learning path and projects completed
 
-# Current Progress
-https://www.learncpp.com/
-Chapter (to read) = 1.3
+## Current Progress
+- [learncpp](https://www.learncpp.com/)
+- Chapter (to read) = 1.3
 
-# Resources
+## Resources
 
-# Project Ideas
+## Project Ideas
