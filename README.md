@@ -9,6 +9,6 @@ Repo to keep track of my cpp learning path and projects completed
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 
 ## Extras
-- [RFC3092](https://datatracker.ietf.org/doc/html/rfc3092)
+- [RFC3092](https://datatracker.ietf.org/doc/html/rfc3092) on the meaning of "foo" and "bar"
 
 ## Project Ideas
