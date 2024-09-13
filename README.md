@@ -13,3 +13,5 @@ Repo to keep track of my cpp learning path and projects completed
 - [RFC3092](https://datatracker.ietf.org/doc/html/rfc3092) on the meaning of "foo" and "bar"
 
 ## Project Ideas
+- Todo App in console
+- Some sort of dungeon game in the console
