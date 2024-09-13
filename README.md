@@ -8,6 +8,7 @@ Repo to keep track of my cpp learning path and projects completed
 ## Resources
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [Online Compiler / Editor](https://www.onlinegdb.com/online_c++_compiler)
+- [C++ Microsoft Reference](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
 
 ## Libraries
 #### Logging
