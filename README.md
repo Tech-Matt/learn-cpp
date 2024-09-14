@@ -18,6 +18,7 @@ https://github.com/SergiusTheBest/plog
 ## Extras
 - [RFC3092](https://datatracker.ietf.org/doc/html/rfc3092) on the meaning of "foo" and "bar"
 - [IEEE-754 - Floating Points](https://en.wikipedia.org/wiki/IEEE_754)
+- [Defensive Programming](https://en.wikipedia.org/wiki/Defensive_programming)
 
 ## Project Ideas
 - Todo App in console
