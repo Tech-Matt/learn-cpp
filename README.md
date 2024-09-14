@@ -3,7 +3,7 @@ Repo to keep track of my cpp learning path and projects completed
 
 ## Current Progress
 - [learncpp](https://www.learncpp.com/)
-- Chapter (to read) = 4.1
+- Chapter (to read) = 4.4
 
 ## Resources
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
@@ -17,6 +17,7 @@ https://github.com/SergiusTheBest/plog
 
 ## Extras
 - [RFC3092](https://datatracker.ietf.org/doc/html/rfc3092) on the meaning of "foo" and "bar"
+- [IEEE-754 - Floating Points](https://en.wikipedia.org/wiki/IEEE_754)
 
 ## Project Ideas
 - Todo App in console
