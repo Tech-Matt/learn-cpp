@@ -3,7 +3,7 @@ Repo to keep track of my cpp learning path and projects completed
 
 ## Current Progress
 - [learncpp](https://www.learncpp.com/)
-- Chapter (to read) = 4.4
+- Chapter (to read) = 4.7
 
 ## Resources
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
