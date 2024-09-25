@@ -12,8 +12,10 @@ Repo to keep track of my cpp learning path and projects completed
 - [Other Microsoft References](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
 
 ## Libraries
-#### Logging
+### Logging
 https://github.com/SergiusTheBest/plog
+### GUI
+- https://www.wxwidgets.org/
 
 ## Extras
 - [RFC3092](https://datatracker.ietf.org/doc/html/rfc3092) on the meaning of "foo" and "bar"
