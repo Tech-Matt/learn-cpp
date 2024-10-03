@@ -10,6 +10,7 @@ Repo to keep track of my cpp learning path and projects completed
 - [Online Compiler / Editor](https://www.onlinegdb.com/online_c++_compiler)
 - [C++ Microsoft Reference](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
 - [Other Microsoft References](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
+- [C++ keywords](https://en.cppreference.com/w/cpp/keyword)
 
 ## Libraries
 ### Logging
