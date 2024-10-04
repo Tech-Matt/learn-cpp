@@ -6,11 +6,18 @@ Repo to keep track of my cpp learning path and projects completed
 - Chapter (to read) = 4.8
 
 ## Resources
+### C++ Docs
 - [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - [Online Compiler / Editor](https://www.onlinegdb.com/online_c++_compiler)
 - [C++ Microsoft Reference](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
 - [Other Microsoft References](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
 - [C++ keywords](https://en.cppreference.com/w/cpp/keyword)
+
+### Floating Point Data types
+- [Float Exposed](https://float.exposed/0x3dcccccd)
+- [Floating Point Gui](https://floating-point-gui.de/)
+- [Floating Point Visually Explained](https://fabiensanglard.net/floating_point_visually_explained/index.html)
+- [IEEE-754 - Floating Points](https://en.wikipedia.org/wiki/IEEE_754)
 
 ## Libraries
 ### Logging
@@ -20,7 +27,6 @@ https://github.com/SergiusTheBest/plog
 
 ## Extras
 - [RFC3092](https://datatracker.ietf.org/doc/html/rfc3092) on the meaning of "foo" and "bar"
-- [IEEE-754 - Floating Points](https://en.wikipedia.org/wiki/IEEE_754)
 - [Defensive Programming](https://en.wikipedia.org/wiki/Defensive_programming)
 - [On the issues with Unsigned Integers](https://blog.libtorrent.org/2016/05/unsigned-integers/)
 
