@@ -3,7 +3,7 @@ Repo to keep track of my cpp learning path and projects completed
 
 ## Current Progress
 - [learncpp](https://www.learncpp.com/)
-- Chapter (to read) = 4.11
+- Chapter (to read) = 4.x
 
 ## Resources
 ### C++ Docs
@@ -21,9 +21,10 @@ Repo to keep track of my cpp learning path and projects completed
 
 ## Libraries
 ### Logging
-https://github.com/SergiusTheBest/plog
+- [Plog](https://github.com/SergiusTheBest/plog)
+
 ### GUI
-- https://www.wxwidgets.org/
+- [WXWidgets](https://www.wxwidgets.org/)
 
 ## Extras
 - [RFC3092](https://datatracker.ietf.org/doc/html/rfc3092) on the meaning of "foo" and "bar"
