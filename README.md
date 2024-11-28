@@ -13,6 +13,11 @@ Repo to keep track of my cpp learning path and projects completed
 - [Other Microsoft References](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
 - [C++ keywords](https://en.cppreference.com/w/cpp/keyword)
 
+### Awesome Websites
+- [C++ Insights](https://cppinsights.io/)
+- [Compiler Explorer](https://godbolt.org/)
+- [C++ Playground](https://cpp.sh/)
+
 ### Floating Point Data types
 - [Float Exposed](https://float.exposed/0x3dcccccd)
 - [Floating Point Gui](https://floating-point-gui.de/)
