@@ -18,6 +18,7 @@ Repo to keep track of my cpp learning path and projects completed
 - [Compiler Explorer](https://godbolt.org/)
 - [C++ Playground](https://cpp.sh/)
 - [GDB Online Debugger](https://www.onlinegdb.com/)
+- [C++ Guide to Undefined Behaviour](https://pvs-studio.com/en/blog/posts/cpp/1129/)
 
 ### Floating Point Data types
 - [Float Exposed](https://float.exposed/0x3dcccccd)
