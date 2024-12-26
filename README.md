@@ -20,6 +20,11 @@ Repo to keep track of my cpp learning path and projects completed
 - [GDB Online Debugger](https://www.onlinegdb.com/)
 - [C++ Guide to Undefined Behaviour](https://pvs-studio.com/en/blog/posts/cpp/1129/)
 
+### Build Systems and Package Managers
+- [Meson](https://mesonbuild.com/index.html)
+- [Vcpkg](https://vcpkg.io/en/)
+- [Conan](https://conan.io/)
+
 ### Floating Point Data types
 - [Float Exposed](https://float.exposed/0x3dcccccd)
 - [Floating Point Gui](https://floating-point-gui.de/)
@@ -32,6 +37,7 @@ Repo to keep track of my cpp learning path and projects completed
 
 ### GUI
 - [WXWidgets](https://www.wxwidgets.org/)
+- [FTXUI](https://github.com/ArthurSonzogni/FTXUI)
 
 ## Extras
 - [RFC3092](https://datatracker.ietf.org/doc/html/rfc3092) on the meaning of "foo" and "bar"
