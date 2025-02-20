@@ -12,6 +12,7 @@ Repo to keep track of my cpp learning path and projects completed
 - [C++ Microsoft Reference](https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170)
 - [Other Microsoft References](https://learn.microsoft.com/en-us/cpp/?view=msvc-170)
 - [C++ keywords](https://en.cppreference.com/w/cpp/keyword)
+- [How to Comment](http://syque.com/cstyle/part2.htm)
 
 ### Awesome Websites
 - [C++ Insights](https://cppinsights.io/)
